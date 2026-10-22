@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/support-inbox"
 summary: Shared customer-support inbox with contacts, conversations, email and chat-widget channels, assignment, groups, labels, canned replies, business hours and reports.
 license: CC-BY-4.0
+tags: [saas, customer-support]
 requires:
   "@specfork/auth": "^0.3.0"
   "@specfork/teams": "^0.3.0"
